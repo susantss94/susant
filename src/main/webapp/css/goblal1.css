@@ -1,0 +1,19 @@
+
+.bg{background: url('../image/background-blur-clean-531880.jpg') no-repeat; width: 100%; height: 100vh; }
+.form-container{
+
+
+}
+.form-popup{
+	border:0px;
+	display: block;
+	position:static;
+	width: 100px;
+	object-fit:contain;
+    height: 140px;
+}
+.btn{
+	position:absolute;
+	right: 0px;
+	
+}
